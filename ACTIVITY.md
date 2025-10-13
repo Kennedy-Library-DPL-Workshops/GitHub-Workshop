@@ -13,6 +13,3 @@
 5. ...
 
 **Now follow the Git Workflow described in [Git Control](GitControl.md)**  
-
-Paste your github link here!  
-[some link] *doesnt work yet*
