@@ -1,10 +1,9 @@
 <p align="left"><a href="README.md"> <- Main</a></p><p align="right"><a href="GitControl.md"> Git Control -> </a></p>
 
 # Activity  
+----
 
 **Add a text file named "survey.txt" to your cloned repository**  
-
-
 
 In the IDE: 
 
@@ -16,7 +15,7 @@ In the Terminal:
 You can either create the file using vim or nano, if you're comfortable with it.
 Otherwise, you can create one outside the terminal in your repository folder using TextEdit (or Notepad).
 
-
+----
 **Answer these questions**:
 
 1. What is your Major and Year?
