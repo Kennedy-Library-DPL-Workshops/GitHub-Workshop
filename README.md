@@ -14,11 +14,11 @@ To use **Git** you must locally install it to your computer:
 
 ### Linux:  
 Type into your terminal command-line:
-> $ sudo apt install git-all
+> sudo apt install git-all
 
 ### Mac:  
 Type into your terminal command-line:
-> $ git --version  
+> git --version  
 > \**If you dont already have it installed, it will prompt you to install*
 
 ## Make a GitHub Account  
