@@ -51,10 +51,17 @@ Now that you have a repository, you can clone it to edit your code and test in a
 
 To clone:
 1. Click on the **"< > Code"**  
-2. Under **Local** and **HTTPS**, copy the link provided.  
-3. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*) \**If you need help finding this in your specific IDE, just ask!*  
-   1. Select clone repository and paste the link.  
-   2. Select where you want the local project stored.  
+2. Under **Local** and **HTTPS**, copy the link provided.
+
+In the Terminal:
+1. Go into the directory/make the directory - you want the cloned project to be.
+2. Type the command:
+    > $ git clone [ repository link here ]
+
+In the IDE:
+1. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*) \**If you need help finding this in your specific IDE, just ask!*
+2. Select clone repository and paste the link.
+3. Select where you want the local project stored.  
   
 # SUCCESS!!
 
