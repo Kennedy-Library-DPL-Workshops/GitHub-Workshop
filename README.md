@@ -56,7 +56,7 @@ To clone:
 In the Terminal:
 1. Go into the directory/make the directory - you want the cloned project to be.
 2. Type the command:
-    > $ git clone [ repository link here ]
+    > git clone [ repository link here ]
 
 In the IDE:
 1. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*) \**If you need help finding this in your specific IDE, just ask!*
