@@ -10,7 +10,7 @@ To use **Git** you must locally install it to your computer:
 
 ### Windows:  
 > [Install Latest Here](https://git-scm.com/downloads/win)  
-> \**Download through "Click here to download the latest (2.49.0) 64-bit version of Git for Windows"*  
+> \**Download through "Click here to download the latest version of Git for Windows"*  
 
 ### Linux:  
 Type into your terminal command-line:
