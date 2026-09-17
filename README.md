@@ -10,9 +10,9 @@ Welcome to the Digital Project Lab's Introduction to Git and GitHub Workshop! In
 * where to learn more!
 
 ## First things first, what is Git?
-Git is a version control system software. ​**Version control** is a system that tracks changes to files over time, allowing coders to revert to previous versions, collaborate, and manage code history. 
+Git is a software system that makes it possible for coders to develop collaboratively by using version control. ​**Version control** is the process of tracking changes to files over time, allowing coders to revert to previous versions, collaborate, and manage code history. 
 
-Have you ever worked simultaneously with others on a Google Doc or Microsoft Word document, only to realize that the changes you were making were overwriting or conflicting with someone else's? In contrast, Git works by giving each team member a copy (clone) of the project to work from on their own machine. This structure is called **Distributed Architecture.** ​
+Have you ever worked simultaneously with others on a Google Doc or Microsoft Word document, only to realize that the changes you were making were overwriting or conflicting with someone else's? In contrast, Git works by giving each team member a copy (clone) of the entire project to work from on their own machine. This structure is called **Distributed Architecture.** ​
 
 #### Distributed Architecture
 <img src="/image/distr_architecture.png" alt="Diagram explaining distributed architecture" width="300"/>
